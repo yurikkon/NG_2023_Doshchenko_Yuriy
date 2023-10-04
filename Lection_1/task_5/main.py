@@ -1,6 +1,6 @@
-firstnumber = int(input("write first number: "))
-secondnumber = int(input("write second number: "))
-thirtnumber = int(input("write thirt number: "))
+firstnumber = int(input("write coefficient a number: "))
+secondnumber = int(input("write coefficient b number: "))
+thirtnumber = int(input("write coefficient c number: "))
 disc = (secondnumber * secondnumber) - (4 * (firstnumber * thirtnumber))
 print(disc)
 if disc <= 0:
