@@ -1,2 +1,2 @@
-print(Yuriy)
-print(Doshchenko)
+print("Yuriy")
+print("Doshchenko")
