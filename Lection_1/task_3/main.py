@@ -1,4 +1,6 @@
-choise = int(input("Write 1 if you want to convert degreesCelcius to fahrenheit\nWrite 2 if you want to convert fahrenheit to degrees Celcius: "))
+print("Write 1 or 2: ")
+choise = int(input("1-convert degrees Celcius to fahrenheit\n2-fahrenheit to degrees Celcius: "))
+
 
 
 if choise == 1:
